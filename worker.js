@@ -1,4 +1,4 @@
-// ---------- Insert Your Data ---------- //
+// ---------- Insert Your Data --------- //
 
 const BOT_TOKEN = "8176280350:AAFkcWrohhfd5QgLfWQJUkgM9Ozg25_5uxU";
 const BOT_WEBHOOK = "/endpoint";
